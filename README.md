@@ -37,7 +37,7 @@ I'm a full-stack developer from Germany
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Qubit&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000&hide_border=true" alt="Qubits's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Qubit&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="github-readme-stats.the-qubit.vercel.app/api?username=The-Qubit&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=00000000&hide_border=true" alt="Qubits's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="github-readme-stats.the-qubit.vercel.app/api/top-langs/?username=The-Qubit&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true" /></a>
 
 
 [website]: https://github.com/The-Qubit
